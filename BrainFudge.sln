@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainFudge", "BrainFudge\BrainFudge.csproj", "{4060AB48-E60B-40E9-A4B8-74924055D87C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainFudgeTests", "BrainFudgeTests\BrainFudgeTests.csproj", "{362452A3-935B-446E-A78D-4C7C106D7EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4060AB48-E60B-40E9-A4B8-74924055D87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4060AB48-E60B-40E9-A4B8-74924055D87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4060AB48-E60B-40E9-A4B8-74924055D87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4060AB48-E60B-40E9-A4B8-74924055D87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362452A3-935B-446E-A78D-4C7C106D7EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362452A3-935B-446E-A78D-4C7C106D7EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362452A3-935B-446E-A78D-4C7C106D7EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362452A3-935B-446E-A78D-4C7C106D7EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90667173-392B-4649-9E51-6B9E19B8B975}
+	EndGlobalSection
+EndGlobal

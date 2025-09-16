@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BrainFudge": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\user1\\Desktop\\Experis\\c#\\projects\\‏‏לעלות לגיט - עותק\\‏‏BrainFudge\\BrainFudge",
+      "sqlDebugging": false
+    }
+  }
+}
